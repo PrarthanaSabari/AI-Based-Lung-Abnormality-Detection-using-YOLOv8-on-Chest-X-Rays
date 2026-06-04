@@ -1,0 +1,24 @@
+
+path: /content/drive/MyDrive/CliniScan/5_Model
+
+train: train
+val: val
+
+nc: 15
+
+names:
+  0: Aortic enlargement
+  1: Atelectasis
+  2: Calcification
+  3: Cardiomegaly
+  4: Consolidation
+  5: ILD
+  6: Infiltration
+  7: Lung Opacity
+  8: No finding
+  9: Nodule/Mass
+  10: Other lesion
+  11: Pleural effusion
+  12: Pleural thickening
+  13: Pneumothorax
+  14: Pulmonary fibrosis
